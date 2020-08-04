@@ -1,0 +1,3 @@
+Custom setting: Super Custom Setting
+Default bot name: scrapybot
+After updating bot name: NEW_BOT_NAME
